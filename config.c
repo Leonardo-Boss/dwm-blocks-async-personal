@@ -4,8 +4,9 @@
 #include "util.h"
 
 Block blocks[] = {
-    {"lescript.py",    600,    11},
-    {"pingopi",    60,    11},
+    {"lescript.py",600,   11},
+    {"sb-xscreensaver",0,   6},
+    {"pingopi",    60,    12},
     {"sb-forecast",18000,  5},
     {"sb-date",    60,    10},
 };
